@@ -1,0 +1,5 @@
+export const IMAGE_URL = 'http://ehisaab.app/ehisaab/'
+export const BASE_URL = 'http://143.110.190.246:4000'
+export const LOGIN_URL = '/api/v1/auth/login'
+export const PRODUCT_STATUS_URL = '/api/v1/products/getByStatus'
+export const UPDATE_PRDOUCT = '/api/v1/products/updateStatus'
